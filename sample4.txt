@@ -1,0 +1,4 @@
+ijicbwdnc
+nthis is the git revert moide
+git revert command
+
